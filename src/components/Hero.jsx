@@ -8,9 +8,9 @@ export default function Hero() {
         <img
           src="https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1170&auto=format&fit=crop"
           alt="School classroom background"
-          className="w-full h-full object-cover object-center"
+          className="w-full h-full object-cover object-center brightness-50"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-slate-950/80 via-slate-900/65 to-blue-950/80" />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/90 via-blue-950/85 to-blue-950/95" />
       </div>
 
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
